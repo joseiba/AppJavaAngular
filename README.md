@@ -1,2 +1,2 @@
-# SwNaturaPruebas
+# SwNaturaTests
 Software Natura tests
