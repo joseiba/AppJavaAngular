@@ -1,7 +1,10 @@
 # This is a basic workflow to help you get started with Actions
 
 name: Auto approve
-on: pull_request
+on:
+  pull_request:
+    branches:
+    - master
 
 jobs:
   build:
