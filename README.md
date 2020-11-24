@@ -1,2 +1,17 @@
 # App Java y Angular
-Software Natura tests
+
+Back End
+
+-Java 8 
+
+-Spring Boot Frameworks
+
+Front End
+
+-Angular CLI 7
+
+-Bootstrap 4
+
+Base de Datos
+
+-MySQL
